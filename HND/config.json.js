@@ -9,6 +9,6 @@
 "sc_version":"2021121401",
 "com_version":"2021060601",
 "game_version":"2020071901",
-"link":"https://t.me/merlinclashfile/355",
-"patch_link":"https://t.me/merlinclashfile/370"
+"link":"https://t.me/merlinclashfile/381",
+"patch_link":"https://t.me/merlinclashfile/384"
 }
