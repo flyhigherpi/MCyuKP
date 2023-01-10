@@ -6,7 +6,7 @@
 "title":"Merlin Clash",
 "version":"22.11.18",
 "patch_version":"002",
-"sc_version":"2022111801",
+"sc_version":"2023011001",
 "com_version":"2021060601",
 "game_version":"2020071901",
 "link":"https://t.me/merlinclashfile/432",
