@@ -4,11 +4,11 @@
 "home_url":"Module_merlinclash.asp",
 "name":"merlinclash",
 "title":"Merlin Clash",
-"version":"22.11.18.2",
-"patch_version":"002",
-"sc_version":"2023011001",
+"version":"23.03.09.2",
+"patch_version":"001",
+"sc_version":"2023030901",
 "com_version":"2021060601",
 "game_version":"2020071901",
-"link":"https://t.me/merlinclashfile/433",
-"patch_link":"https://t.me/merlinclashfile/438"
+"link":"hhttps://t.me/merlinclashfile/441",
+"patch_link":"https://t.me/merlinclashfile/441"
 }
